@@ -13,7 +13,7 @@ In this project I have performed analysis the ride-sharing data specifically for
  - the total number of drivers for rural cities was 78, 3% of the grand total.
       - this was 412 less than the total number of drivers for suburban cities (490, 16% of the grand total) and 2327 less than the total number rides for urban cities (2405 and 81% of the grand total).
  - the total amount of fares for rural cities was $4,237.93, 7% of the grand total.
-      - this was $15,028.40 less than the total amount for suburban cities ($19,356.33, 30% of the grand total) and $35,526.45 less than the total amount for urban cities ($39,854.38, 63% of the grand total).
+      - this was $15,028.40 less than the total amount for suburban cities ($19,356.33, 30% of the grand total) and $35,526.45 less than the total amount for urban cities ($39,854.38 and 63% of the grand total).
  - the average fare per ride for rural cities was $34.62, $3.65 greater than the average fare for suburban cities ($30.97) and $10.09 greater than the average fare for urban cities ($24.53).
  - the average fare per driver for rural cities was $55.49, $15.99 greater than the average fare for suburban cities ($39.50) and $38.92 greater than the average fare for urban cities ($16.57).
 
@@ -25,7 +25,7 @@ In this project I have performed analysis the ride-sharing data specifically for
 
 ## Summary
 
-Based on the results provided, I can offer some recommendations to treat the disparities amongst the city types:
+Based on the results provided, I can offer recommendations to treat some disparities in the data:
 - Double down on marketing in the rural cities to attract more drivers, thereby lowering the average fares but increasing the total fares in hopes that they can ascend past their current yearly high of $500 per week.
 - The total weekly fares for all three city types reached their first peak towards the end of February, which makes sense as that marks the end of winter.  Ideally it would be good to maintain or increase that price high for as long as possible.  This already seems to have been achieved for urban cities more or less.  Perhaps for suburban and rural cities, implement a rider discount for a limited period of time so by the time the warmer months roll around, riders will have had more time to consider PyBer as a meaningful choice of transport and use it more frequently, thus increasing the total weekly fares.
 - As nice as it is to have many drivers in urban cities, it results in lower average fares, escpecially per driver.  Therefore I'd raise the cost to ride in urban cities, but slowly in order to prevent riders from turning towards other modes of transport.  Hopefully this will increase the total fares just enough so that the total rides does not decrease.
